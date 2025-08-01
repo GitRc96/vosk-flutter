@@ -1,4 +1,4 @@
-name: vosk_flutter
+name: vosk_flutter_2
 description: Flutter plugin for offline speech recognition using the Vosk speech recognition toolkit.
 version: 0.3.48
 homepage: https://alphacephei.com/
